@@ -11,7 +11,7 @@ This is the hardware half of a bigger system. The other half is [ota-fleet-deplo
 
 ## Why I'm Building This
 
-I'm targeting a career in autonomous vehicle software, specifically Ford's Latitude AI. I want to understand the full stack, not just the software side. Building custom hardware gives me hands-on experience with the embedded systems, communication protocols, and real-time constraints that AV engineers deal with every day.
+I'm interested in autonomous vehicle systems and want to understand the full stack, not just the software side. Building custom hardware gives me hands-on experience with embedded systems, communication protocols, and the real-time constraints that come with putting code on actual vehicles.
 
 ## What It Will Do
 
